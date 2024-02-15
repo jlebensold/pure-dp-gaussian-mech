@@ -1,4 +1,3 @@
-# pure-dp-gaussian-mech
 Repository for On the Privacy of Selection Mechanisms with Gaussian Noise
 
 Jonathan Lebensold, Doina Precup, Borja Balle
